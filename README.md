@@ -4,9 +4,17 @@ I'm Byungju Jeong who is interested in Front-End fron South Korea.
 
 If you want to contact me, Please leave me a message.
 
-### Experience
+### Experience💻
 
 1.CodeStates students.
+
+### Tech Stack
+1.Javascript
+
+2.react
+
+3.react hook
+
 
 <!--
 **byungju0624/byungju0624** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

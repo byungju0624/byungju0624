@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Byungju Jeong who is interested in Front-End fron South Korea.
+I'm Byungju Jeong who is interested in Front-End from South Korea.
 
 If you want to contact me, Please leave me a message.
 
